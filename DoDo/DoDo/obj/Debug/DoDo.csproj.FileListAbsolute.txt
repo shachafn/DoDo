@@ -1,0 +1,7 @@
+C:\Users\97250\source\repos\DoDo\DoDo\bin\Debug\DoDo.exe.config
+C:\Users\97250\source\repos\DoDo\DoDo\bin\Debug\DoDo.exe
+C:\Users\97250\source\repos\DoDo\DoDo\bin\Debug\DoDo.pdb
+C:\Users\97250\source\repos\DoDo\DoDo\obj\Debug\DoDo.csprojAssemblyReference.cache
+C:\Users\97250\source\repos\DoDo\DoDo\obj\Debug\DoDo.csproj.CoreCompileInputs.cache
+C:\Users\97250\source\repos\DoDo\DoDo\obj\Debug\DoDo.exe
+C:\Users\97250\source\repos\DoDo\DoDo\obj\Debug\DoDo.pdb
